@@ -1,6 +1,6 @@
 <!--/Cart.vue-->
 <template>
-    <div>购物车</div>
+    <div>购物车12344</div>
 </template>
 <style>
 </style>
