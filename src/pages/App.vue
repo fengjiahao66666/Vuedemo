@@ -21,7 +21,7 @@
              <div>
                <img src="../assets/images/cart.svg">
              </div>
-             <div>购物车</div>
+             <div>购物车123</div>
           </router-link>
           
           <router-link to="{name: 'Me'}" tag="li">
