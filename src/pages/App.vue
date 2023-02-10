@@ -23,7 +23,7 @@
              </div>
              <div>购物车123</div>
           </router-link>
-          
+
           <router-link to="{name: 'Me'}" tag="li">
              <div>
                <img src="../assets/images/me.svg">
@@ -37,12 +37,17 @@
       <router-view></router-view>
     </div>
   </div>
-    
+
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  methods: {
+    init () {
+      console.log(111);
+    }
+  }
 }
 </script>
 
