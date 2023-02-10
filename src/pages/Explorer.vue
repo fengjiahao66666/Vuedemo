@@ -1,6 +1,6 @@
 <!--/Explorer.vue-->
 <template>
-    <div>分类</div>
+    <div>分123类</div>
 </template>
 <style>
 </style>
